@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://devchallenges.io/challenges/hH6PbOHBdPm6otzw2De5">
+    <a href="https://juliorbc.github.io/TODO/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://juliorbc.github.io/TODO/">
+    <a href="https://github.com/Juliorbc/TODO">
       Solution
     </a>
     <span> | </span>
